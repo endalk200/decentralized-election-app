@@ -1,3 +1,4 @@
+// eslint-disable
 import * as dotenv from "dotenv";
 
 import { HardhatUserConfig, task } from "hardhat/config";
